@@ -11,7 +11,7 @@ permalink: /publication/
   IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Salt Lake City, USA, 2018 
 - A Stagewise Refinement Model for Detecting Salient Objects in Images   
   Tiantian Wang, Ali Borji, Lihe Zhang, Pingping Zhang, Huchuan Lu     
-  IEEE International Conference on Computer Vision (CVPR), Venice, Italy, 2017
+  IEEE International Conference on Computer Vision (ICCV), Venice, Italy, 2017
 - Kernelized Subspace Ranking for Saliency Detection  
   Tiantian Wang, Lihe Zhang, Huchuan Lu, Chong Sun, Jinqing Qi  
   European Conference on Computer Vision (ECCV), Amsterdam, Netherlands, 2016
