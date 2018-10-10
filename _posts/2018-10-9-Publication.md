@@ -3,7 +3,7 @@ layout: page
 permalink: /publication/
 ---
 
-- Detect Globally, Refine Locally: A Novel Approach to Saliency Detection    
+- Detect Globally, Refine Locally: A Novel Approach to Saliency Detection  
   Tiantian Wang, Lihe Zhang, Shuo Wang, Huchuan Lu, Gang Yang, Xiang Ruan, Ali Borji  
   IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Salt Lake City, USA, 2018 
 - Progressive Attention Guided Recurrent Network for Salient Object Detection   
@@ -18,7 +18,7 @@ permalink: /publication/
 - Deep Multi-Level Networks with Multi-Task Learning for Saliency Detection  
   Lihe Zhang, Xiang Fang, Hongguang Bo, Tiantian Wang, Huchuan Lu  
   Nurocomputinn, Volume 312, 27 October 2018, Pages 229-238
-
+ <font color=#00ffff size=5>hahaha</font> 
 
 ### Contact me
 
