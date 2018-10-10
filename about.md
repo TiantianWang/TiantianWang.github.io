@@ -4,9 +4,12 @@ permalink: /publication/
 ---
 
 ### Publication
+- Detect Globally, Refine Locally: A Novel Approach to Saliency Detection
 - You don't need to touch the command line
-
-A place to include any other types of information that you'd like to include about yourself.
+- You don't need to touch the command line
+- You don't need to touch the command line
+- You don't need to touch the command line
+- You don't need to touch the command line
 
 ### Contact me
 
