@@ -9,7 +9,7 @@ name: Tiantian Wang
 description: University of California, Merced
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: blob/master/images/image1.jpeg
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 #
 # Flags below are optional
