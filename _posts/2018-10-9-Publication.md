@@ -15,13 +15,13 @@ permalink: /publication/
 - Kernelized Subspace Ranking for Saliency Detection  
   Tiantian Wang, Lihe Zhang, Huchuan Lu, Chong Sun, Jinqing Qi  
   European Conference on Computer Vision (ECCV), Amsterdam, Netherlands, 2016
-- Deep Multi-Level Networks with Multi-Task Learning for Saliency Detection      
-  <font size="3">Lihe Zhang, Xiang Fang, Hongguang Bo, Tiantian Wang, Huchuan Lu    
+- Deep Multi-Level Networks with Multi-Task Learning for Saliency Detection<br/>
+  <font size="3">Lihe Zhang, Xiang Fang, Hongguang Bo, Tiantian Wang, Huchuan Lu<br/>
   Nurocomputinn, Volume 312, 27 October 2018, Pages 229-238  
   
 
   <font size="5">sizesizesizesize5
-  <font size="4">sizesizesizesize5</font><br /> 
+  <font size="4">sizesizesizesize5</font><br/> 
   <font size="3">sizesizesizesize</font><br /> 
   <font size="2">sizesizesizesize</font><br /> 
 
