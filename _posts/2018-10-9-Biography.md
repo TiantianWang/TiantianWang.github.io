@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /publication/
+permalink: /
 ---
 
 I am a first-year Ph.D. student of Vision and Learning Lab in the Department of Electrical Science and Computer Engineering, University of California, Merced, advised by Prof. Ming-Hsuan Yang. 
