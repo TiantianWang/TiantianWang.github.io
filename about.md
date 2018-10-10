@@ -1,15 +1,13 @@
 ---
 layout: page
-title: Publication
 permalink: /publication/
 ---
 
-Some information about you!
-
-### More Information
+### Publication
+- You don't need to touch the command line
 
 A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[tiantianwang.ice@gmail.com](mailto:tiantianwang.ice@gmail.com)
