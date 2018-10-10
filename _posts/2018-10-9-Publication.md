@@ -19,14 +19,11 @@ permalink: /publication/
   Lihe Zhang, Xiang Fang, Hongguang Bo, Tiantian Wang, Huchuan Lu  
   Nurocomputinn, Volume 312, 27 October 2018, Pages 229-238
   
-  <font size="8">size为10</font><br /> 
-  <font size="7">size为10</font><br /> 
-  <font size="6">size为10</font><br /> 
-  <font size="5">size为10</font><br /> 
-  <font size="4">size为10</font><br /> 
-  <font size="3">size为10</font><br /> 
-  <font size="2">size为10</font><br /> 
-  <font size="1">size为10</font><br /> 
+
+  <font size="5">sizesizesizesize</font><br /> 
+  <font size="4">sizesizesizesize</font><br /> 
+  <font size="3">sizesizesizesize</font><br /> 
+  <font size="2">sizesizesizesize</font><br /> 
 
 
 ### Contact me
