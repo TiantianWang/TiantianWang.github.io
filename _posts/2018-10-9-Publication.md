@@ -18,7 +18,6 @@ permalink: /publication/
 - Deep Multi-Level Networks with Multi-Task Learning for Saliency Detection  
   Lihe Zhang, Xiang Fang, Hongguang Bo, Tiantian Wang, Huchuan Lu  
   Nurocomputinn, Volume 312, 27 October 2018, Pages 229-238
- <font color=#00ffff size=5>hahaha</font> 
 
 ### Contact me
 
