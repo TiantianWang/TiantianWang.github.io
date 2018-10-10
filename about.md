@@ -6,6 +6,7 @@ permalink: /publication/
 ### Publication
 - Detect Globally, Refine Locally: A Novel Approach to Saliency Detection
   Tiantian Wang, Lihe Zhang, Shuo Wang, Huchuan Lu, Gang Yang, Xiang Ruan, Ali Borji
+  IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Salt Lake City, USA, 2018 
 - You don't need to touch the command line
 - You don't need to touch the command line
 - You don't need to touch the command line
