@@ -8,7 +8,7 @@ permalink: /publication/
   <font size="3">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Salt Lake City, USA, 2018 
 - Progressive Attention Guided Recurrent Network for Salient Object Detection <br/>  
   <font size="3">Xiaoning Zhang<strong>*</strong>, <strong>Tiantian Wang*</strong>, Jinqing Qi, Huchuan Lu, Gang Wang<br/>
-  <font size="3"><strong>*</strong denotes equal contributions<br/>    
+  <font size="3"><strong>*</strong> denotes equal contributions<br/>    
   <font size="3">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Salt Lake City, USA, 2018 
 - A Stagewise Refinement Model for Detecting Salient Objects in Images<br/>   
   <font size="3"><strong>Tiantian Wang</strong>, Ali Borji, Lihe Zhang, Pingping Zhang, Huchuan Lu<br/>     
