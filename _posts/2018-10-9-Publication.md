@@ -7,6 +7,12 @@ Conferenc papers:
 - Detect Globally, Refine Locally: A Novel Approach to Saliency Detection<br/>  
   <font size="3"><strong>Tiantian Wang</strong>，Lihe Zhang, Shuo Wang, Huchuan Lu, Gang Yang, Xiang Ruan, Ali Borji<br/>  
   <font size="3">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Salt Lake City, USA, 2018 
+- Referring Expression Object Segmentation with Caption-Aware Consistency<br/>  
+  Yi-Wen Chen, Yi-Hsuan Tsai, <font size="3"><strong>Tiantian Wang</strong>，Yen-Yu Lin, Ming-Hsuan Yang<br/>  
+  <font size="3">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Salt Lake City, USA, 2018 
+- Detect Globally, Refine Locally: A Novel Approach to Saliency Detection<br/>  
+  <font size="3"><strong>Tiantian Wang</strong>，Lihe Zhang, Shuo Wang, Huchuan Lu, Gang Yang, Xiang Ruan, Ali Borji<br/>  
+  <font size="3">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Salt Lake City, USA, 2018 
 - Progressive Attention Guided Recurrent Network for Salient Object Detection <br/>  
   <font size="3">Xiaoning Zhang<strong>*</strong>, <strong>Tiantian Wang*</strong>, Jinqing Qi, Huchuan Lu, Gang Wang<br/>
   <font size="3"><strong>*</strong> denotes equal contributions<br/>    
