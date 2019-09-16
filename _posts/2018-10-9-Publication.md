@@ -13,7 +13,7 @@ Conferenc papers:
 - Detect Globally, Refine Locally: A Novel Approach to Saliency Detection<br/>  
   <font size="3"><strong>Tiantian Wang</strong>，Lihe Zhang, Shuo Wang, Huchuan Lu, Gang Yang, Xiang Ruan, Ali Borji<br/>  
   <font size="3">IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR), Salt Lake City, USA, 2018 
-- Progressive Attention Guided Recurrent Network for Salient Object Detection <br/>  
+- Progressive Attention Guided Recurrent Network for Salient Object Detection<br/>  
   <font size="3">Xiaoning Zhang<strong>*</strong>, <strong>Tiantian Wang*</strong>, Jinqing Qi, Huchuan Lu, Gang Wang<br/>
   <font size="3"><strong>*</strong> denotes equal contributions<br/>    
   <font size="3">IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR), Salt Lake City, USA, 2018 
