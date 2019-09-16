@@ -7,6 +7,6 @@ I am a second-year Ph.D. student of Vision and Learning Lab in the Department of
 
 <!--I was a research intern from June, 2018 to August, 2018 at Tencent AI Lab. -->
 
-My research interest includes deep learning, machine learning and their applications in computer vision. 
+My research interest includes deep learning, machine learning and their applications in computer vision. For more information, please see my [CV](https://drive.google.com/file/d/1-qDtrf0gLDnv6J_kOYYi9GAmAfSb2XVV/view?usp=sharing).
 
 
