@@ -7,8 +7,8 @@ Conferenc papers:
 - Deep Learning for Light Field Saliency Detection<br/>  
   <font size="3"><strong>Tiantian Wang</strong>，Yongri Piao, Xiao Li, Lihe Zhang, Huchuan Lu<br/>  
   <font size="3">International Conference on Computer Vision (ICCV), Seoul, Korea, 2019
-- Referring Expression Object Segmentation with Caption-Aware Consistency<br/>  
-  Yi-Wen Chen, Yi-Hsuan Tsai, <font size="3"><strong>Tiantian Wang</strong>，Yen-Yu Lin, Ming-Hsuan Yang<br/>  
+- Referring Expression Object Segmentation with Caption-Aware Consistency<br/>
+  <font size="3">Yi-Wen Chen, Yi-Hsuan Tsai, <font size="3"><strong>Tiantian Wang</strong>，Yen-Yu Lin, Ming-Hsuan Yang<br/>  
   <font size="3">British Machine Vision Conference (BMVC), Cardiff, UK, 2019
 - Detect Globally, Refine Locally: A Novel Approach to Saliency Detection<br/>  
   <font size="3"><strong>Tiantian Wang</strong>，Lihe Zhang, Shuo Wang, Huchuan Lu, Gang Yang, Xiang Ruan, Ali Borji<br/>  
