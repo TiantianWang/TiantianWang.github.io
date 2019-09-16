@@ -2,7 +2,7 @@
 layout: page
 permalink: /publication/
 ---
-Conferenc papers:
+Conference papers:
 
 - Deep Learning for Light Field Saliency Detection<br/>  
   <font size="3"><strong>Tiantian Wang</strong>，Yongri Piao, Xiao Li, Lihe Zhang, Huchuan Lu<br/>  
