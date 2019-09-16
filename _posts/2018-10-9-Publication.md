@@ -23,9 +23,21 @@ Conferenc papers:
 - Kernelized Subspace Ranking for Saliency Detection<br/>  
   <font size="3"><strong>Tiantian Wang</strong>, Lihe Zhang, Huchuan Lu, Chong Sun, Jinqing Qi<br/>  
   <font size="3">European Conference on Computer Vision (ECCV), Amsterdam, Netherlands, 2016
+
+Journal papers:
+
 - Deep Multi-Level Networks with Multi-Task Learning for Saliency Detection<br/>
   <font size="3">Lihe Zhang, Xiang Fang, Hongguang Bo, <strong>Tiantian Wang</strong>, Huchuan Lu<br/>
-  <font size="3">Nurocomputing, Volume 312, 27 October 2018, Pages 229-238  
+  <font size="3">Neurocomputing 2019
+- Multi-scale Pyramid Pooling Network for Salient Object Detection<br/>
+  <font size="3">Dakhia Abdelhafid, <strong>Tiantian Wang</strong>, Huchuan Lu<br/>
+  <font size="3">Neurocomputing 2018
+- A Hybrid-Backward Renement Model for Salient Object Detection<br/>
+  <font size="3">Dakhia Abdelhafid, <strong>Tiantian Wang</strong>, Huchuan Lu<br/>
+  <font size="3">Neurocomputing 2019
+- Edge-Aware Convolution Neural Network Based Salient Object Detection<br/>
+  <font size="3">Wenlong Guan, <strong>Tiantian Wang</strong>, Jinqing Qi, Lihe Zhang, Huchuan Lu<br/>
+  <font size="3">IEEE SPL 2019
 
 ### Contact me
 
