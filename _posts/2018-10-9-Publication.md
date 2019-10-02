@@ -41,6 +41,7 @@ Journal papers:
 - A Multi-Stage Refinement Network for Salient Object Detection<br/>
   <font size="3">Lihe Zhang, Jie Wu, <strong>Tiantian Wang</strong>, Pingping Zhang, Ali Borji, Huchuan Lu<br/>
   <font size="3">IEEE TIP 2019
+    
 ### Contact me
 
 [tiantianwang.ice@gmail.com](mailto:tiantianwang.ice@gmail.com)
