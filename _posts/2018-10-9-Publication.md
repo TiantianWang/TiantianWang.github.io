@@ -7,20 +7,20 @@ Conference papers:
 - [[Code]()] Deep Learning for Light Field Saliency Detection<br/>  
   <font size="3"><strong>Tiantian Wang</strong>，Yongri Piao, Xiao Li, Lihe Zhang, Huchuan Lu<br/>  
   <font size="3">International Conference on Computer Vision (ICCV), Seoul, Korea, 2019
-- [Code]() Referring Expression Object Segmentation with Caption-Aware Consistency<br/>
+- [[Code]()] Referring Expression Object Segmentation with Caption-Aware Consistency<br/>
   <font size="3">Yi-Wen Chen, Yi-Hsuan Tsai, <font size="3"><strong>Tiantian Wang</strong>, Yen-Yu Lin, Ming-Hsuan Yang<br/>  
   <font size="3">British Machine Vision Conference (BMVC), Cardiff, UK, 2019
-- [Code](https://github.com/TiantianWang/CVPR18_detect_globally_refine_locally.git) Detect Globally, Refine Locally: A Novel Approach to Saliency Detection<br/>  
+- [[Code](https://github.com/TiantianWang/CVPR18_detect_globally_refine_locally.git)] Detect Globally, Refine Locally: A Novel Approach to Saliency Detection<br/>  
   <font size="3"><strong>Tiantian Wang</strong>，Lihe Zhang, Shuo Wang, Huchuan Lu, Gang Yang, Xiang Ruan, Ali Borji<br/>  
   <font size="3">IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR), Salt Lake City, USA, 2018 
-- [Code]() Progressive Attention Guided Recurrent Network for Salient Object Detection<br/>  
+- [[Code]()] Progressive Attention Guided Recurrent Network for Salient Object Detection<br/>  
   <font size="3">Xiaoning Zhang<strong>*</strong>, <strong>Tiantian Wang*</strong>, Jinqing Qi, Huchuan Lu, Gang Wang<br/>
   <font size="3"><strong>*</strong> denotes equal contributions<br/>    
   <font size="3">IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR), Salt Lake City, USA, 2018 
-- [Code](https://github.com/TiantianWang/ICCV17_SRM.git) A Stagewise Refinement Model for Detecting Salient Objects in Images<br/>   
+- [[Code](https://github.com/TiantianWang/ICCV17_SRM.git)] A Stagewise Refinement Model for Detecting Salient Objects in Images<br/>   
   <font size="3"><strong>Tiantian Wang</strong>, Ali Borji, Lihe Zhang, Pingping Zhang, Huchuan Lu<br/>     
   <font size="3">International Conference on Computer Vision (ICCV), Venice, Italy, 2017
-- [Code](https://github.com/TiantianWang/ECCV16_KSR.git) Kernelized Subspace Ranking for Saliency Detection<br/>  
+- [[Code](https://github.com/TiantianWang/ECCV16_KSR.git)] Kernelized Subspace Ranking for Saliency Detection<br/>  
   <font size="3"><strong>Tiantian Wang</strong>, Lihe Zhang, Huchuan Lu, Chong Sun, Jinqing Qi<br/>  
   <font size="3">European Conference on Computer Vision (ECCV), Amsterdam, Netherlands, 2016
 
