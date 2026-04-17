@@ -153,6 +153,7 @@ div.header {
   border: 1px solid #ddd;
   background-color: #fff;
   padding: 1em;
+  overflow: hidden;
 }
 div.header-info {
   padding-left: 12em;
