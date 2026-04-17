@@ -159,6 +159,13 @@ div.header-info {
   vertical-align: top;
   min-height: 120px;
 }
+.name {
+  line-height: 150%;
+  font-size: 20pt;
+}
+.show-mobile {
+  display: none;
+}
 @media (max-width: 768px) {
   body {
     margin: 1em auto;
@@ -176,6 +183,16 @@ div.header-info {
   div.header-info {
     padding-left: 0;
     min-height: 0;
+    font-size: 14px;
+  }
+  .name {
+    font-size: 16pt;
+  }
+  .hide-mobile {
+    display: none;
+  }
+  .show-mobile {
+    display: inline;
   }
   div.paper div {
     padding-left: 0;
