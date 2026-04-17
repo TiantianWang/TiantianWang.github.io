@@ -195,6 +195,10 @@ div.header-info {
   .show-mobile {
     display: inline;
   }
+  .social-links {
+    display: block;
+    margin-top: 0.5em;
+  }
   div.paper div {
     padding-left: 0;
   }
